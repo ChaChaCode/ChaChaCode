@@ -1,3 +1,7 @@
+<!--
+  Хотите такой же профиль? Инструкция по настройке: SETUP.md
+  Want this profile for yourself? Setup guide: SETUP.md
+-->
 <a href="https://github.com/ChaChaCode/ChaChaCode">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaChaCode/ChaChaCode/main/dark_mode.svg">
